@@ -63,7 +63,7 @@ declares what language the webpage is written in. In our case, writing in
 English, we will use `lang="en"`. This helps search engines to know what
 language a page is written in. Our `index.html` should now look like this:
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 </html>
