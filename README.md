@@ -147,3 +147,4 @@ previous lesson, you can now just use `git push` and the `main-pages` branch
 will be updated remotely.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/document-structure'>Document Structure</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Document Structure</p>
