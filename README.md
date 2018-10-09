@@ -146,5 +146,8 @@ Notice, too, that since you've already set up tracking on your branch from the
 previous lesson, you can now just use `git push` and the `main-pages` branch
 will be updated remotely.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-document-structure/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-document-structure/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/document-structure'>Document Structure</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Document Structure</p>
